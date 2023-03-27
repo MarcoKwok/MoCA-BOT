@@ -1,7 +1,14 @@
 # MoCA-BOT
 AI-Powered Self-Administered Cognitive Assessment
+
 *Please note this program is for educational purposes only and should not be treated as a medical diagnostic tool.*
 
+## Usage
+To run this bot you require your own OpenAI API Key
+
+Ensure all the requirements are downloaded
+
+Run the program "moca_bot.py"
 
 ## LLM for Brain Health 2023 Hackathon
 
