@@ -39,11 +39,11 @@ While MoCA-BOT is capable of completing many aspects of MoCA, there are some lim
 
 Other steps we plan to take include:
 
-Using ChatGPT-4 or more robust LLMs with larger power
-Fine-tuning and training on "ideal" chat datasets 
-Incorporating other AI models technologies for the Visuospatial and Executive Tasks
-Recording the chat logs and extracting data for research purposes
-Incorporating speech-to-text abilities for user input
+1. Using ChatGPT-4 or more robust LLMs with larger power
+2. Fine-tuning and training on "ideal" chat datasets 
+3. Incorporating other AI models technologies for the Visuospatial and Executive Tasks
+4. Recording the chat logs and extracting data for research purposes
+5. Incorporating speech-to-text abilities for user input
 
 
 
