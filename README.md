@@ -21,7 +21,7 @@ Jessica Kwok (Thompson Rivers University)
 Marco Kwok (Simon Fraser University)
 
 ## Inspiration
-The global population is aging. From 2015 to 2050, the proportion of the world's population over 60 years of age is expected to double from 12% to 22%. Our current acute healthcare model is expected to transition, and there will be a growing need and demand for more robust chronic problems, like monitoring of cognitive decline. Unfortunately, access to healthcare resources for chronic problems are not always easily available, and it can be difficult for aging populations to access. 
+The global population is aging. From 2015 to 2050, the proportion of the world's population over 60 years of age is expected to double from 12% to 22%. Our current acute healthcare model is expected to transition, and there will be a growing need and demand for more robust chronic problems, like monitoring of cognitive decline. Unfortunately, access to healthcare resources for chronic problems are not always easily available, and it can be difficult for aging populations to access care. 
 
 AI tools have shown considerable success in practical applications, but often require multi-disciplinary collaboration, which can be difficult due to the difference in specialty. There are often barriers in communication due to jargon and difficulties with idea translation. We are a multi-disciplinary team, so we acknowledge the tremendous difficulties surrounding multi-disciplinary research. 
 
