@@ -6,8 +6,11 @@ AI-Powered Self-Administered Cognitive Assessment
 ## LLM for Brain Health 2023 Hackathon
 
 Team CJM:
+
 Christy Kwok (University of British Columbia)
+
 Jessica Kwok (Thompson Rivers University)
+
 Marco Kwok (Simon Fraser University)
 
 ## Inspiration
