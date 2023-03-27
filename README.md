@@ -10,6 +10,8 @@ AI-Powered Self-Administered Cognitive Assessment
 
 - Run the program "moca_bot.py"
 
+- type "exit" as a user input to exit the program or terminate via IDE
+
 ## LLM for Brain Health 2023 Hackathon
 
 **Team CJM:**
