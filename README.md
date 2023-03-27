@@ -3,7 +3,7 @@ AI-Powered Self-Administered Cognitive Assessment
 *Please note this program is for educational purposes only and should not be treated as a medical diagnostic tool.*
 
 
-##LLM for Brain Health 2023 Hackathon
+## LLM for Brain Health 2023 Hackathon
 
 Team CJM:
 Christy Kwok (University of British Columbia)
